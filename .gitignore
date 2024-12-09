@@ -1,0 +1,22 @@
+*.mp4
+!*.mp4.*
+
+*.mp3
+!*.mp3.*
+
+<<<<<<< HEAD
+*.wav
+!*.wav.*
+
+=======
+>>>>>>> 84fc057e1541aa60c37bfd99ebb30f1f06aa73b3
+*.avi
+!*.avi.*
+
+*.ogg
+!*.ogg.*
+
+*.m4a
+!*.m4a.*
+
+/1 Canciones/1 -- Audios --
